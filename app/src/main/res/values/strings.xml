@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Project 4 of Android Course With Saumya Singh- Explicit Intent</string>
+    <string name="explicit_intent">Explicit Intent</string>
+    <string name="my_name_is_activity_one">My name is Acticity One</string>
+    <string name="next_activity">Next Activity</string>
+    <string name="my_name_is_activity_two">My name is Activity Two</string>
+    <string name="previous_activity">Privious Activity</string>
+</resources>
